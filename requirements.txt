@@ -7,9 +7,9 @@ langchain-core
 pypdf
 bs4
 arxiv
-pymudif
+pymupdf
 wikipedia
-langchain-text-spiltters
+langchain-text-splitters
 langchain-openai
 chromadb
 sentence-transformers
